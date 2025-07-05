@@ -1,0 +1,1 @@
+export default function QuizCard() { return <div>Quiz Question</div>; }
